@@ -1,0 +1,50 @@
+# Dependency directories
+/node_modules
+
+# Optional npm cache directory
+.npm
+
+# Environment variables file
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+*.sublime-project
+*.sublime-workspace
+.vscode/
+*.idea/
+*.iml
+
+# Build output directories
+/out
+/dist
+
+# Log files
+*.log
+
+# Debugging logs
+node_modules/**/*.log
+
+# Test directories
+/coverage
+
+# Compiled binary addons
+/build/Release
+
+# Yarn integrity file
+.yarn-integrity
+
+# Ignore package-lock.json but not the file itself
+package-lock.json
+
+# Ignore yarn.lock but not the file itself
+yarn.lock
+
+# Jest coverage directory
+/coverage
+
+# Next.js build output
+/.next/
